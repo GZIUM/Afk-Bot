@@ -1,12 +1,12 @@
 {
     "bot-account":{ 
-        "username": "popusk",
-        "password": "",
+        "username": "flocolowdu30@gmail.com",
+        "password": "Spectre99!",
         "type": "mojang"
     },
 
     "server":{
-        "ip": "localhost",
+        "ip": "Creepersmp.ender-zone.com",
         "port": 25565,
         "version": "1.16.4"
     },
@@ -20,7 +20,7 @@
 
     "utils":{
         "auto-auth":{
-            "enabled": false,
+            "enabled": true,
             "password": "12345678"
         },
 
@@ -30,19 +30,19 @@
         },
 
         "chat-messages":{
-            "enabled": false,
+            "enabled": true,
             "repeat": true,
             "repeat-delay": 60,
 
             "messages": [
                 "I'm a regular player ", 
-                "My owner is urFate_ ", 
+                "i am poplu ", 
                 "I want be alone ", 
-                "Visit my GitHub page! (urFate/Afk-Bot)"
+                ""
             ]
         },
 
         "chat-log": true,
-        "auto-reconnect": false
+        "auto-reconnect": true
     }
 }
